@@ -1,2 +1,8 @@
 dataset/
 .vscode/
+IDP Papers/
+.DS_Store
+.zip
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
